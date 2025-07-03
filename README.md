@@ -5,7 +5,7 @@
 ### ✓ ¿Que hago?
 
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como desarrollador web. Me fascina poder encontrar la solucion a los problemas de la vida con código.
-
+<hr/>
 ### ✓ Tecnologías y Herramientas
 
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologias que manejo son:
@@ -24,6 +24,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="30" width="30"/></a>&nbsp;
 
 <hr/>
+
 
 <!--
 **AMontaniWortzel/AMontaniWortzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
