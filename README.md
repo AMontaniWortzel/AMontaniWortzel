@@ -2,12 +2,11 @@
 <p> Soy Full Stack Developer con orientacion al backend y formación previa comercial y en finanzas. Desde que soy un niño que asistía a olimpíadas de matemática que me apasionan los ejercicios de lógica, y luego de buscar en diferentes carreras debo decir que encontre mi pasión en la programaciòn. </p>
 <hr/>
 
-### ✓ ¿Que hago?
-
+### ✓ ¿Que hago? 
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como desarrollador web. Me fascina poder encontrar la solucion a los problemas de la vida con código.
 <hr/>
-### ✓ Tecnologías y Herramientas
 
+### ✓ Tecnologías y Herramientas
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologias que manejo son:
 
 <a href="https://www.w3schools.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="30" width="30"/></a>&nbsp;
@@ -47,8 +46,11 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 ## 📬 **Contacto**  
 📧 alejomontaniwortzel@gmail.com
+
 💼 [LinkedIn](https://www.linkedin.com/in/alejo-montani-wortzel-a4295a19a/)
+
 🔗 [GitHub](https://github.com/AMontaniWortzel)
+
 
 ---
 
